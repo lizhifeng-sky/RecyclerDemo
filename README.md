@@ -1,4 +1,3 @@
 # RecyclerDemo
 snap recycler
-http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png
-https://github.com/lizhifeng-sky/RecyclerDemo/new/master?readme=1
+https://github.com/lizhifeng-sky/RecyclerDemo/blob/master/app/src/main/res/drawable/demo.gif
